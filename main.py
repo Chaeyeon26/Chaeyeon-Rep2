@@ -3,3 +3,4 @@ def main():
     print(stu_info)
 
 if __name__=="__main__":
+    main()
