@@ -1,9 +1,5 @@
-def main()
-    name = input("이름: ")
-    student_id = input("학번: ")
+def main():
+    stu_info=input("이름 학번: ")
+    print(stu_info)
 
-    print(name)
-    print(student_id)
-
-if __name__ == "__main__":
-    main()
+if __name__=="__main__":
